@@ -1,0 +1,12 @@
+footer {
+    /* position: absolute;
+    bottom: 0; */
+    width: 100%;
+    background-color: #f8f9fa; /* צבע רקע לדוגמה */
+    /* font-size: x-large; */
+    text-align: right;
+}
+a {
+    color: #000000; /* החלף זאת בצבע שברצונך */
+
+  }

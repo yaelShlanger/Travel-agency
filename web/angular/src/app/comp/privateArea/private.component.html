@@ -1,0 +1,117 @@
+<br><br>
+
+<!-- כפתורי בחירה -->
+<button (mouseenter)="showButtons()" class="buttonParent">⚫⚫⚫</button>
+<button (click)="toEdit()" *ngIf="showButton" class="buttona">עריכת פרטים אישיים</button>
+<button (click)="showMyTrips()" *ngIf="showButton" class="buttonb">הטיולים שלי</button>
+<br>
+
+<!-- מכאן טופס עדכון פרטים -->
+<div *ngIf="openEdit">
+  <br> <br> 
+  <div>
+  <h3>עדכון פרטים</h3>
+  <form (ngSubmit)="update()">
+      <div class="a">
+  <br>
+          <label>שם משפחה</label>
+          <input type="text" name="LastName" [(ngModel)]="sl.currentUser.lastName">
+          <br>
+          <label>טלפון</label>
+          <input type="text" name="Phone" [(ngModel)]="sl.currentUser.phone">
+          <br>
+          <label>תז</label>
+          <input type="text" name="Tz" [(ngModel)]="sl.currentUser.id">
+          <br>
+      </div>
+      <div class="b">
+  <br>
+          <label>שם פרטי</label>
+          <input type="text" name="FirstName" [(ngModel)]="sl.currentUser.firstName">
+          <br>
+          <label>אימייל</label>
+          <input type="text" name="Mail" [(ngModel)]="sl.currentUser.mail">
+          <br>
+          <label>סיסמא</label>
+          <input type="text" name="Password" [(ngModel)]="sl.currentUser.password">
+          <br>
+          <div class="checkbox1">
+              <label>מחזיק תעודת חובש</label>
+              <input type="checkbox" name="FirstAidCertificate" [(ngModel)]="sl.currentUser.firstAidCertificate">
+          </div>
+          <br>
+  
+      </div>
+      <div class="submit-container">
+        <input type="submit" class="mybut" value="עדכון פרטים">
+        </div>
+        <button (click)="delete()" style="background-color: red;" class="delete">🗑️</button>
+  </form>
+  
+</div>
+<br><br>
+
+</div>
+<!-- עד כאן טופס עדכון פרטים -->
+
+
+<!-- מכאן הטיולים שלי -->
+<div *ngIf="openTrips">
+ 
+  <!-- סינונים -->
+<div class="filters">
+ <!-- סוג טיול -->
+ <p class="select1">
+    <select [(ngModel)]="selectedItem" (change)="onSelectionChange()" class="form-select" aria-label="Default select example" placeholder="סוג הטיול"> 
+      <option disabled selected></option>
+        <option *ngFor="let item of allTripType">{{item.tripName}}</option>
+        <option>הכל</option>
+      </select> 
+  </p>  
+    
+ <!-- עבר והווה -->
+ <p class="select2">
+      <select [(ngModel)]="selectedTimeItem" (change)="onTimesSelectionChange()" class="form-select" aria-label="Default select example" > 
+        <option disabled selected></option>
+        <option>עבר</option>
+        <option>הווה</option>
+        <option>הכל</option>
+      </select> 
+    </p>
+ <!-- לפי מחיר -->
+ <p class="select3">
+<input type="number" placeholder="מחיר" [(ngModel)]="selectedPriceItem" (blur)="onPriceSelectionChange()" class="form-select" aria-label="Default select example" style="height: 38px;">
+</p>
+
+
+</div>
+
+
+<!-- עד כאן סינונים -->
+
+
+
+<!-- פרטי הטיול -->
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 90px; text-align: center;">
+  <ng-container  class="trip" *ngFor="let i of newallTrips "  style="margin-bottom: 90px;">
+   <div class="card" style="width: 18rem;"  *ngIf="i.date && parseDate(i.date) && parseDate(i.date)!.getTime() > today.getTime()">
+       <img  src="../../../assets/images/trips/{{i.img}}" class="card-img-top" alt="..." >
+       <div class="card-body">
+         <h5 class="card-title">{{i.destination}}</h5>
+       </div>
+       <ul class="list-group list-group-flush">
+         <li class="list-group-item">{{i.date |date:'dd.MM.yyyy'}} </li>
+       </ul> 
+     <button *ngIf="i.date && parseDate(i.date) && parseDate(i.date)!.getTime() > today.getTime()" (click)="cancel(i)" >ביטול הרשמה</button>   
+     <ul class="list-group list-group-flush">         
+   </ul>
+</div>   
+</ng-container>
+</div>  
+</div>
+<!-- עד כאן פרטי טיול -->
+
+<br>
+<br>
+<br>
+<br>

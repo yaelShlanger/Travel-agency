@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Dal",
+    "\\Dal\\Dal",
+    "\\Dal\\Dal\\Models",
+    "\\Dal\\Dto",
+    "\\Dal\\Dto\\Classes",
+    "\\Dal\\WebApi",
+    "\\Dal\\WebApi\\Controllers"
+  ],
+  "SelectedNode": "\\Dal\\WebApi\\Controllers\\TripController.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,121 @@
+h3{
+  text-align: center;
+}
+.log {
+  max-width: 400px;
+  margin: auto;
+  padding: 20px;
+  background-color: #f7f7f7;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+direction: rtl;
+  margin-bottom: 8px;
+  font-weight: bold;
+}
+
+input {
+  padding: 10px;
+  margin-bottom: 16px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type="submit"] {
+  background-color: rgb(43, 148, 148);
+  color:black;
+  cursor: pointer;
+}
+
+input[type="submit"]:hover {
+  background-color:rgb(50, 117, 117);
+}
+/* עד כאן */
+/* .log{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+} */
+/* .log{
+  width: 500px;
+  height: 200;
+  background-color: #fffcfc;
+  margin-right: 40%;
+  margin-left: 40%;
+} */
+
+/* :host {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  p{
+   font-family: Ts Matka;
+  } */
+  /* .container {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  .btn-primary {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius: 8px;
+  }
+  
+  .btn-primary:hover {
+    background-color: #45a049;
+  }
+  
+  .btn-primary:focus {
+    outline: none;
+  }
+  
+  input[type="text"],
+  input[type="email"] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    border-radius: 4px;
+  } */
+  /* .container {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  button {
+    margin-top: 20px;
+  } */

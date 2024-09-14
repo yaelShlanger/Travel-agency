@@ -1,0 +1,47 @@
+<br><br><br>
+<body>
+<img src="../../../assets/images/trips/{{st.currentTrip.img}}" class="card-img-top" alt="..." ngClass="a">
+
+<div style="display: flex; justify-content: center; text-align: center;" ngClass="b">
+    <ng-container style="margin-bottom: 90px;">
+        <div class="card" style="width: 18rem;">
+            <div class="card-body" id="title">
+                <img id="flag" src="../../../assets/images/trips/דגלים/{{st.currentTrip.img}}" >
+                <h5 class="card-title" style="font-weight: bold;">{{st.currentTrip.destination}}</h5>
+            </div>
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item">{{st.currentTrip.date | date:'dd.MM.yyyy'}}
+                <p></p>
+            </li>
+            </ul>
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item">{{st.currentTrip.typeName}} </li>
+            </ul>
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item">אורך הטיול {{st.currentTrip.hours}} ימים</li>
+            </ul>
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item">שעת יציאה {{st.currentTrip.departure }}</li>
+            </ul>
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item">כרטיסים פנויים {{st.currentTrip.vacancys}}</li>
+            </ul>
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item">מחיר 💲{{st.currentTrip.price}} </li>
+            </ul>
+          
+            <ul class="list-group list-group-flush">
+                <button (click)="invite()" style="width: 18rem;" *ngIf="sl.userName!='אנונימי'" >הזמנת כרטיסים</button>
+            </ul>
+        </div>
+    </ng-container>
+</div>
+<div ngClass="d">
+<form *ngIf="display" (ngSubmit)="inviteToTrip()" class="c">
+    <input type="number" max="{{st.currentTrip.vacancys}}" min="1" name="ticket" [(ngModel)]="numVacancy" placeholder="מספר כרטיסים" style="width: 18rem">
+    <br>
+    <input type="submit" value="הזמן טיול" style="width: 18rem">
+</form>
+</div>
+</body>
+<br><br>

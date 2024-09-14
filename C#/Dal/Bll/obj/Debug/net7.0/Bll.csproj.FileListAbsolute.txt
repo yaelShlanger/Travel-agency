@@ -1,0 +1,38 @@
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\Bll\bin\Debug\net7.0\Bll.deps.json
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\Bll\bin\Debug\net7.0\Bll.runtimeconfig.json
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\Bll\bin\Debug\net7.0\Bll.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\Bll\bin\Debug\net7.0\Bll.pdb
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\Bll\bin\Debug\net7.0\Dal.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\Bll\bin\Debug\net7.0\Dto.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\Bll\bin\Debug\net7.0\Dal.pdb
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\Bll\bin\Debug\net7.0\Dto.pdb
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\Bll\obj\Debug\net7.0\Bll.csproj.AssemblyReference.cache
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\Bll\obj\Debug\net7.0\Bll.GeneratedMSBuildEditorConfig.editorconfig
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\Bll\obj\Debug\net7.0\Bll.AssemblyInfoInputs.cache
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\Bll\obj\Debug\net7.0\Bll.AssemblyInfo.cs
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\Bll\obj\Debug\net7.0\Bll.csproj.CoreCompileInputs.cache
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\Bll\obj\Debug\net7.0\Bll.csproj.CopyComplete
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\Bll\obj\Debug\net7.0\Bll.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\Bll\obj\Debug\net7.0\refint\Bll.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\Bll\obj\Debug\net7.0\Bll.pdb
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\Bll\obj\Debug\net7.0\Bll.genruntimeconfig.cache
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\Bll\obj\Debug\net7.0\ref\Bll.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\Bll\bin\Debug\net7.0\Bll.deps.json
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\Bll\bin\Debug\net7.0\Bll.runtimeconfig.json
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\Bll\bin\Debug\net7.0\Bll.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\Bll\bin\Debug\net7.0\Bll.pdb
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\Bll\bin\Debug\net7.0\Dal.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\Bll\bin\Debug\net7.0\Dto.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\Bll\bin\Debug\net7.0\Dal.pdb
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\Bll\bin\Debug\net7.0\Dto.pdb
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\Bll\obj\Debug\net7.0\Bll.csproj.AssemblyReference.cache
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\Bll\obj\Debug\net7.0\Bll.GeneratedMSBuildEditorConfig.editorconfig
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\Bll\obj\Debug\net7.0\Bll.AssemblyInfoInputs.cache
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\Bll\obj\Debug\net7.0\Bll.AssemblyInfo.cs
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\Bll\obj\Debug\net7.0\Bll.csproj.CoreCompileInputs.cache
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\Bll\obj\Debug\net7.0\Bll.csproj.CopyComplete
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\Bll\obj\Debug\net7.0\Bll.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\Bll\obj\Debug\net7.0\refint\Bll.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\Bll\obj\Debug\net7.0\Bll.pdb
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\Bll\obj\Debug\net7.0\Bll.genruntimeconfig.cache
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\Bll\obj\Debug\net7.0\ref\Bll.dll

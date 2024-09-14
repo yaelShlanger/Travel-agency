@@ -1,0 +1,68 @@
+body{
+  
+  width: 1000px;
+  height: 500px;
+  align-items: center;
+  margin-left: 70px;
+  background-color: rgba(43, 148, 148, 0.285); ;
+  /* border: 1px solid black; */
+  /* position: relative; */
+}
+
+.a{  
+    position: absolute;
+    top: 130px;
+    left: 40px; 
+    text-align: center;
+    background-color: white;
+    border: 0.1px solid #1a0245;
+    padding: 10px;
+    width: 700px;
+    z-index: 999;
+    /* Add more styles as needed */
+    animation: slideIn 0.5s ease;
+  }
+.b{
+  font-family:Dana Yad AlefAlefAlef ;
+  font-weight: bold;
+    position: absolute;
+    top: 130px; /* אותו ערך top כמו .a */
+    left: 780px; /* שינוי הערך של left כדי להזיז את .b ימינה */
+    /* z-index: 999; */
+    animation: slideIn 1s ease;
+  }
+.c{
+  font-family:Dana Yad AlefAlefAlef ;
+  font-weight: bold;
+    position: absolute;
+    top: 550px; /* אותו ערך top כמו .a */
+    left: 780px; /* שינוי הערך של left כדי להזיז את .b ימינה */
+    /* z-index: 999; */
+    animation: slideIn 1s ease;
+  }
+  .d{
+    font-family:Dana Yad AlefAlefAlef ;
+    font-weight: bold;
+    border: solid 1px hsl(43, 148, 148);
+  }
+
+  @keyframes slideIn {
+    0% {
+      opacity: 0;
+      transform: translateX(100%);
+    }
+    100% {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+  #flag{
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+  }
+  #title{
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+    text-align: center;
+  }

@@ -1,0 +1,181 @@
+
+import { HttpClient } from '@angular/common/http';
+import { DataService } from './data.service';
+import * as XLSX from 'xlsx';
+import { saveAs } from 'file-saver';
+import { FixedRequestClass } from './classes/FixedRequestClass';
+
+@Component({
+  selector: 'app-third-screen',
+  templateUrl: './third-screen.component.html',
+  styleUrls: ['./third-screen.component.css']
+})
+export class ThirdScreenComponent implements OnInit {
+  newFixedRequest: FixedRequestClass = new FixedRequestClass();
+  selectedRetrievals: retrievalList[] = [];
+  retrievalList: retrievalList[] = [];
+  parametersMap: { [key: string]: Parameters[] } = {};
+  formData: { [key: string]: { [key: string]: any } } = {};
+  resultsHeaders: { [key: string]: string[] } = {};
+  results: { [key: string]: any[] } = {};
+  showResults: boolean = false;
+  pageMap: { [key: string]: number } = {};
+  pageSize: number = 5;
+  loading: boolean = false;
+  page: number = 1;
+  showPopup: boolean = false;
+  isSubmitAllowed: boolean = false;
+ 
+  timingList: any[] = [];
+
+  constructor(private http: HttpClient, private dataService: DataService) { }
+
+  ngOnInit(): void {
+    this.fetchRetrievals();
+    this.fetchTimingOptions();
+    this.newFixedRequest.requestListId = 2;
+    this.newFixedRequest.status = 1;
+    this.newFixedRequest.to = ['']
+  }
+  fetchRetrievals() {
+    this.dataService.getRetrievals().subscribe({
+      next: (data) => {
+        this.retrievalList = data;
+      }
+    });
+  }
+  fetchTimingOptions() {
+    this.dataService.getTimingOptions().subscribe({
+      next: (data) => {
+
+        this.timingList = data.map((item, index) => ({ id: index + 1, ...item }));
+        console.log('Timing options loaded:', this.timingList);
+      },
+      error: (error) => {
+        console.error('Error loading timing options:', error);
+      }
+    });
+  }
+  getParameterType(type: number): string {
+    switch (type) {
+      case 1:
+        return 'text';
+      case 2:
+        return 'number';
+      case 3:
+        return 'date';
+      default:
+        return 'text';
+    }
+  }
+  onRetrievalChange() {
+    this.isSubmitAllowed = this.selectedRetrievals.length === 1;
+  }
+  fetchParametersForRetrieval(retrievalName: string) {
+    this.dataService.getParametersByRetrieval(retrievalName).subscribe({
+      next: (data) => {
+        this.parametersMap[retrievalName] = data.parameters;
+        this.formData[retrievalName] = this.parametersMap[retrievalName].reduce((acc, parameter) => {
+          acc[parameter.parameterName] = '';
+          return acc;
+        }, {});
+      }
+    });
+  }
+  send() {
+    if (this.selectedRetrievals.length > 0) {
+      this.selectedRetrievals.forEach(retrieval => {
+        this.pageMap[retrieval.eName] = 1;
+        this.results[retrieval.eName] = [];
+        this.fetchResultsForRetrieval(retrieval.eName, this.formData[retrieval.eName]);
+      });
+      this.showResults = true;
+    }
+  }
+  fetchResultsForRetrieval(retrieval: string, parameters: any) {
+    const page = this.pageMap[retrieval] || 1;
+    this.dataService.getResultsByRetrieval(retrieval, parameters, page, this.pageSize).subscribe({
+      next: (data) => {
+        this.resultsHeaders[retrieval] = data.headers;
+        this.results[retrieval] = [...this.results[retrieval], ...data.rows];
+        this.pageMap[retrieval]++;
+      }
+    });
+  }
+  onLoadMore() {
+    if (!this.loading) {
+      this.loading = true;
+      this.page++;
+      this.selectedRetrievals.forEach(retrieval => {
+        this.fetchResultsForRetrieval(retrieval.eName, this.formData[retrieval.eName]);
+      });
+      this.loading = false;
+    }
+  }
+  exportExcel() {
+    if (this.selectedRetrievals.length > 0) {
+      const wb: XLSX.WorkBook = XLSX.utils.book_new();
+
+      this.selectedRetrievals.forEach(retrieval => {
+        const ws: XLSX.WorkSheet = XLSX.utils.aoa_to_sheet([this.resultsHeaders[retrieval.eName], ...this.results[retrieval.eName]]);
+        XLSX.utils.book_append_sheet(wb, ws, retrieval.hName);
+      });
+
+      const wbout = XLSX.write(wb, { bookType: 'xlsx', type: 'array' });
+      saveAs(new Blob([wbout], { type: 'application/octet-stream' }), 'results.xlsx');
+    }
+  }
+  openPopup() {
+    if (!this.isSubmitAllowed) {
+      alert("עבור הגדרת שליפה קבועה יש לבחור שליפה אחת בלבד")
+      return;
+      }
+    console.log('Opening popup');
+    this.showPopup = true;
+  }
+  closePopup() {
+    this.showPopup = false;
+  }
+  addRecipient() {
+    if (this.newFixedRequest.to.length < 5) {
+      this.newFixedRequest.to.push('');
+    }
+  }
+  updateRetivial() {
+    this.isSubmitAllowed = this.selectedRetrievals.length === 1;
+  }
+  submitPopup() {
+      console.log('Attempting to submit popup data:', this.newFixedRequest);
+      if (this.selectedRetrievals.length > 0) {
+        const fixedRequestData = {
+          requestListId: 1,
+          timing: this.newFixedRequest.timing,
+          date: this.newFixedRequest.date,
+          to: this.newFixedRequest.to.join(';'),
+          status: 1,
+          endDate: this.newFixedRequest.endDate,
+        }
+        console.log('Fixed request data:', fixedRequestData);
+
+        this.dataService.createFixedRequest(this.newFixedRequest).subscribe({
+          next: () => {
+            console.log('הגדרות שליפה קבועה נשמרו:', this.newFixedRequest);
+            this.closePopup();
+          },
+          error: (error) => {
+            console.error('Error saving fixed request data:', error);
+          }
+        });
+      }
+    }
+ 
+}
+export class Parameters {
+  parameterName: string;
+  parameterType: number;
+}
+export class retrievalList {
+  id: number;
+  eName: string;
+  hName: string;
+}

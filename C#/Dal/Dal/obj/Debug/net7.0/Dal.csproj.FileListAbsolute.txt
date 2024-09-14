@@ -1,0 +1,31 @@
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\Dal\bin\Debug\net7.0\Dal.deps.json
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\Dal\bin\Debug\net7.0\Dal.runtimeconfig.json
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\Dal\bin\Debug\net7.0\Dal.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\Dal\bin\Debug\net7.0\Dal.pdb
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\Dal\bin\Debug\net7.0\Dto.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\Dal\bin\Debug\net7.0\Dto.pdb
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\Dal\obj\Debug\net7.0\Dal.csproj.AssemblyReference.cache
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\Dal\obj\Debug\net7.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\Dal\obj\Debug\net7.0\Dal.AssemblyInfoInputs.cache
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\Dal\obj\Debug\net7.0\Dal.AssemblyInfo.cs
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\Dal\obj\Debug\net7.0\Dal.csproj.CoreCompileInputs.cache
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\Dal\obj\Debug\net7.0\Dal.csproj.CopyComplete
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\Dal\obj\Debug\net7.0\Dal.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\Dal\obj\Debug\net7.0\refint\Dal.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\Dal\obj\Debug\net7.0\Dal.pdb
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\Dal\obj\Debug\net7.0\Dal.genruntimeconfig.cache
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\Dal\obj\Debug\net7.0\ref\Dal.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\Dal\bin\Debug\net7.0\Dal.deps.json
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\Dal\bin\Debug\net7.0\Dal.runtimeconfig.json
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\Dal\bin\Debug\net7.0\Dal.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\Dal\bin\Debug\net7.0\Dal.pdb
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\Dal\obj\Debug\net7.0\Dal.csproj.AssemblyReference.cache
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\Dal\obj\Debug\net7.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\Dal\obj\Debug\net7.0\Dal.AssemblyInfoInputs.cache
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\Dal\obj\Debug\net7.0\Dal.AssemblyInfo.cs
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\Dal\obj\Debug\net7.0\Dal.csproj.CoreCompileInputs.cache
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\Dal\obj\Debug\net7.0\Dal.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\Dal\obj\Debug\net7.0\refint\Dal.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\Dal\obj\Debug\net7.0\Dal.pdb
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\Dal\obj\Debug\net7.0\Dal.genruntimeconfig.cache
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\Dal\obj\Debug\net7.0\ref\Dal.dll

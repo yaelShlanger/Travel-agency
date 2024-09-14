@@ -1,0 +1,17 @@
+div{
+    text-align: center;
+}
+.select{
+    margin-left: 90%;
+    margin-top: 0%;
+    width: 150px;
+    }
+    .form-select:focus {
+        outline: none;
+        color: black;
+        box-shadow: 0 0 0 0.20rem  rgb(43, 148, 148); 
+      }
+      .form-select option:hover {
+        background-color: lightblue;
+        color: rgb(43, 148, 148); 
+      }

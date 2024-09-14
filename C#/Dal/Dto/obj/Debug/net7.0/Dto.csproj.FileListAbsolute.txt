@@ -1,0 +1,31 @@
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\Dto\bin\Debug\net7.0\Dto.deps.json
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\Dto\bin\Debug\net7.0\Dto.runtimeconfig.json
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\Dto\bin\Debug\net7.0\Dto.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\Dto\bin\Debug\net7.0\Dto.pdb
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\Dto\obj\Debug\net7.0\Dto.csproj.AssemblyReference.cache
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\Dto\obj\Debug\net7.0\Dto.GeneratedMSBuildEditorConfig.editorconfig
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\Dto\obj\Debug\net7.0\Dto.AssemblyInfoInputs.cache
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\Dto\obj\Debug\net7.0\Dto.AssemblyInfo.cs
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\Dto\obj\Debug\net7.0\Dto.csproj.CoreCompileInputs.cache
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\Dto\obj\Debug\net7.0\Dto.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\Dto\obj\Debug\net7.0\refint\Dto.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\Dto\obj\Debug\net7.0\Dto.pdb
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\Dto\obj\Debug\net7.0\Dto.genruntimeconfig.cache
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\Dto\obj\Debug\net7.0\ref\Dto.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\Dto\bin\Debug\net7.0\Dto.deps.json
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\Dto\bin\Debug\net7.0\Dto.runtimeconfig.json
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\Dto\bin\Debug\net7.0\Dto.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\Dto\bin\Debug\net7.0\Dto.pdb
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\Dto\bin\Debug\net7.0\Dal.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\Dto\bin\Debug\net7.0\Dal.pdb
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\Dto\obj\Debug\net7.0\Dto.csproj.AssemblyReference.cache
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\Dto\obj\Debug\net7.0\Dto.GeneratedMSBuildEditorConfig.editorconfig
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\Dto\obj\Debug\net7.0\Dto.AssemblyInfoInputs.cache
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\Dto\obj\Debug\net7.0\Dto.AssemblyInfo.cs
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\Dto\obj\Debug\net7.0\Dto.csproj.CoreCompileInputs.cache
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\Dto\obj\Debug\net7.0\Dto.csproj.CopyComplete
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\Dto\obj\Debug\net7.0\Dto.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\Dto\obj\Debug\net7.0\refint\Dto.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\Dto\obj\Debug\net7.0\Dto.pdb
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\Dto\obj\Debug\net7.0\Dto.genruntimeconfig.cache
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\Dto\obj\Debug\net7.0\ref\Dto.dll

@@ -1,0 +1,38 @@
+<br> <br> <br> <br>
+<div>
+<h3><strong>(: אני רוצה להצטרף </strong> </h3>
+<form (ngSubmit)="add()">
+    <div class="a">
+<br>
+        <label>שם משפחה</label>
+        <input type="text" name="LastName" [(ngModel)]="newUser.lastName">
+        <br>
+        <label>טלפון</label>
+        <input type="text" name="Phone" [(ngModel)]="newUser.phone">
+        <br>
+        <label>תז</label>
+        <input type="text" name="Tz" [(ngModel)]="newUser.id">
+        <br>
+    </div>
+    <div class="b">
+<br>
+        <label>שם פרטי</label>
+        <input type="text" name="FirstName" [(ngModel)]="newUser.firstName">
+        <br>
+        <label>אימייל</label>
+        <input type="text" name="Mail" [(ngModel)]="newUser.mail">
+        <br>
+        <label>סיסמא</label>
+        <input type="password" name="Password" [(ngModel)]="newUser.password">
+        <br>
+        <div class="checkbox1">
+            <label>מחזיק תעודת חובש</label>
+            <input type="checkbox" name="FirstAidCertificate" [(ngModel)]="newUser.firstAidCertificate">
+        </div>
+        <br>
+
+    </div>
+    <div class="submit-container">
+    <input type="submit" class="but"></div>
+</form></div>
+<br><br>

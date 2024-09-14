@@ -1,0 +1,168 @@
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\appsettings.Development.json
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\appsettings.json
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\WebApi.exe
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\WebApi.deps.json
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\WebApi.runtimeconfig.json
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\WebApi.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\WebApi.pdb
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\AutoMapper.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Azure.Core.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Azure.Identity.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Humanizer.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\System.CodeDom.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\System.Memory.Data.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Bll.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Dal.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Dto.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Bll.pdb
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Dto.pdb
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Dal.pdb
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\obj\Debug\net7.0\WebApi.csproj.AssemblyReference.cache
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\obj\Debug\net7.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfoInputs.cache
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfo.cs
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\obj\Debug\net7.0\WebApi.csproj.CoreCompileInputs.cache
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi.props
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\obj\Debug\net7.0\scopedcss\bundle\WebApi.styles.css
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\obj\Debug\net7.0\WebApi.csproj.CopyComplete
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\obj\Debug\net7.0\WebApi.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\obj\Debug\net7.0\refint\WebApi.dll
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\obj\Debug\net7.0\WebApi.pdb
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
+D:\the user\Documents\'שנה ב\Angular\פרויקט גמר-טיולים\C#\Dal\WebApi\obj\Debug\net7.0\ref\WebApi.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\appsettings.Development.json
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\appsettings.json
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\WebApi.exe
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\WebApi.deps.json
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\WebApi.runtimeconfig.json
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\WebApi.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\WebApi.pdb
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\AutoMapper.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Azure.Core.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Azure.Identity.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Humanizer.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\System.CodeDom.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\System.Memory.Data.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Bll.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Dal.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Dto.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Bll.pdb
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Dal.pdb
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\bin\Debug\net7.0\Dto.pdb
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\obj\Debug\net7.0\WebApi.csproj.AssemblyReference.cache
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\obj\Debug\net7.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfoInputs.cache
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfo.cs
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\obj\Debug\net7.0\WebApi.csproj.CoreCompileInputs.cache
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi.props
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\obj\Debug\net7.0\scopedcss\bundle\WebApi.styles.css
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\obj\Debug\net7.0\WebApi.csproj.CopyComplete
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\obj\Debug\net7.0\WebApi.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\obj\Debug\net7.0\refint\WebApi.dll
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\obj\Debug\net7.0\WebApi.pdb
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
+D:\למודים\angular\פרויקט גמר-טיולים\C#\Dal\WebApi\obj\Debug\net7.0\ref\WebApi.dll

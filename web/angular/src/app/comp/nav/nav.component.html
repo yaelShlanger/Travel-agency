@@ -1,0 +1,43 @@
+<body>
+  <div class="rectangle" *ngIf="sh.homePage">
+    <img src="../../../assets/images/לוגו.png">
+  </div>
+  <div class="container">
+  <div class="navbar-container">
+    <nav class="navbar navbar-expand-sm bg-light  fixed-top ">
+      <div class="container-fluid">
+        <div class="text">
+          <ul class="navbar-nav">
+           
+            <li class="nav-item">
+              <a class="nav-link" routerLink="./homePage"> | דף הבית</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" routerLink="./allTrips">| טיולים שלנו</a>
+            </li>
+            <li class="nav-item">
+              <!--html מעבר לניתוב אחר עי ה -->
+              <!--routerLink נוסיף לתגית מאפיין בשם -->
+              <a class="nav-link" routerLink="./login">| התחברות</a>
+            </li>
+            <li class="nav-item" *ngIf="!manager()">
+              <a class="nav-link" routerLink="./register">| הרשמה</a>
+            </li>
+            <li class="nav-item" *ngIf="connect()">
+              <a class="nav-link" routerLink="./private">| איזור אישי</a>
+            </li>
+            <li class="nav-item" *ngIf="manager()">
+              <a class="nav-link" routerLink="./manager">| כל המשתמשים</a>
+            </li>
+            <li class="nav-item name" id="theName">
+              <p >{{sl?.userName}}</p>
+            </li>
+
+          </ul>
+        </div>
+     
+      </div>
+    </nav>
+  </div>
+</div>
+</body>

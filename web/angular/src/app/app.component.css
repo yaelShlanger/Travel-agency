@@ -1,0 +1,12 @@
+body{
+    background-image: url("../assets/images/10.jpg");
+    /* font-family:Dana Yad AlefAlefAlef ;
+    font-weight: bold;
+    font-size: larger;
+    width: 100%;
+    height: 725px; */
+    background-attachment: fixed;
+     font-family:Dana Yad AlefAlefAlef ;
+    font-weight: bold;
+    font-size: larger;
+}

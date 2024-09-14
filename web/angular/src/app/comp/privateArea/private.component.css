@@ -1,0 +1,198 @@
+/* סגנון נוסף לעמודות */
+h3{
+  text-align: center;
+}
+.tags-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.tag {
+  width: 48%;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+}
+
+form {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 1px;
+  width: 300px;
+  text-align: right;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 352px;
+  display: flex;
+}
+
+/* the rest of the code as it is */
+
+  .but{
+     height: 350px;
+  }
+.a{
+  margin-left: 15%;
+}
+.b{
+  margin-left: 23%;
+  padding-right: 70px;
+}
+h1 {
+  margin-bottom: 20px;
+  color: #333;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  color: #555;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type="checkbox"] {
+  margin-top: 10px;
+}
+
+input[type="submit"] {
+  background-color: rgb(43, 148, 148);
+  color: black;
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type="submit"]:hover {
+  background-color:rgb(50, 117, 117);
+}
+#submit:hover {
+  background-color:rgb(50, 117, 117);
+}
+
+.checkbox1{
+  display: grid;
+  grid-template-columns: auto 1fr;
+  align-items: center;
+  gap: 5px;
+}
+
+
+
+
+/* עיצוב לכפתורים */
+/* סינון */
+.buttonParent{  
+  z-index: 1000;
+  cursor: grab;
+  width: 100px; /* רוחב הכפתור */
+  height: 50px; /* גובה הכפתור */
+  position: absolute;
+  right: 10px;
+  top: 80px;
+  border-radius: 50px 0 0 50px; /* קימור הגבול */
+  font-size: xx-small;
+}
+
+.buttona{  
+  z-index: 1000;
+  cursor: pointer;
+  font-family:Dana Yad AlefAlefAlef ;
+  position: absolute;
+  top: 135px;
+  right: 10px; 
+  animation: slideIn 0.5s ease;
+  border-radius: 50px 0 0 50px; /* קימור הגבול */
+
+}
+.buttonb{  
+  z-index: 1000;
+  cursor: pointer;
+  font-family:Dana Yad AlefAlefAlef ;
+  position: absolute;
+  top: 170px;
+  right: 10px; 
+  animation: slideIn 0.5s ease;
+  border-radius: 50px 0 0 50px; /* קימור הגבול */
+
+}
+
+
+@keyframes slideIn {
+  0% {
+    opacity: 0;
+    transform: translateX(100%);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+#flag{
+  width: 40px;
+  height: 40px;
+  border-radius: 100%;
+}
+#title{
+  text-align: center;
+}
+.mybut{
+  height: 350px;
+  width: 100px;
+}
+.delete{
+  position: absolute;
+  top: 548px;
+  width: 50px;
+  height: 40px;
+  border-radius: 0  50px  50px 0; /* קימור הגבול */
+
+}
+/* עיצוב לסינונים */
+.filters {
+  display: flex;
+  justify-content: center; /* ממרכז את התוכן */
+  width: 80%; /* רוחב קבוע לקונטיינר */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.form-select {
+  width: 100%; 
+}
+
+.form-select:focus {
+  outline: none;
+  color: black;
+  box-shadow: 0 0 0 0.20rem rgb(43, 148, 148);
+}
+
+.form-select option:hover {
+  background-color: lightblue;
+  color: rgb(43, 148, 148);
+}
+
+/* סגנון לפרגרפים שמחזיקים את הסלקטים */
+.select1, .select2, .select3 {
+  flex: 0 0 auto; /* שומר על רוחב הבסיס, מנע גמישות */
+  flex-basis: 150px; /* רוחב בסיס קבוע */
+  margin: 0 10px; /* מרווחים בין הפריטים */
+}

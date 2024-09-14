@@ -1,0 +1,37 @@
+using AutoMapper;
+using DTO.classes;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using DAL.Models;
+
+namespace DTO.mapper
+{
+
+public class MapperProfile : Profile
+{
+public MapperProfile()
+{
+CreateMap();
+CreateMap()
+.ForMember(dest => dest.IdBooking, opt => opt.Ignore());
+
+CreateMap();
+CreateMap()
+.ForMember(dest => dest.IdTrips, opt => opt.Ignore())
+.ForMember(dest => dest.typeName, opt => opt.MapFrom(src => src.IdTypeNavigation.NameType));
+
+CreateMap();
+CreateMap()
+.ForMember(dest => dest.IdType, opt => opt.Ignore());
+
+CreateMap();
+CreateMap()
+.ForMember(dest => dest.IdUser, opt => opt.Ignore());
+}
+
+}
+}
+

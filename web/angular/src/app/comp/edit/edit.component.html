@@ -1,0 +1,18 @@
+<h1>עריכת פרטי משתמש</h1>
+<form >
+    <label>תז</label>
+    <input type="text" name="Tz" [(ngModel)]="updateUser.id">
+    <label>שם פרטי</label>
+    <input type="text" name="FirstName" [(ngModel)]="updateUser.firstName">
+    <label>שם משפחה</label>
+    <input type="text" name="LastName" [(ngModel)]="updateUser.lastName">
+    <label>טלפון</label>
+    <input type="text" name="Phone" [(ngModel)]="updateUser.phone">
+    <label>אימייל</label>
+    <input type="text" name="Mail" [(ngModel)]="updateUser.mail">
+    <label>סיסמא</label>
+    <input type="text" name="Password" [(ngModel)]="updateUser.password">
+    <label>מחזיק תעודת חובש</label>
+    <input type="checkbox" name="FirstAidCertificate" [(ngModel)]="updateUser.firstAidCertificate">
+    <input type="submit" >
+</form>
